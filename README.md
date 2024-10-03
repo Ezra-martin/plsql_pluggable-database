@@ -1,5 +1,5 @@
 ## commands to create and delete a pluggable database
-
+```sql
 Microsoft Windows [Version 10.0.22631.4169]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -75,6 +75,8 @@ Pluggable database altered.
 SQL> drop pluggable database ez_to_delete_pdb;
 
 Pluggable database dropped.
+
+```sql
 
 
 ## task1: creating a new pluggable database
